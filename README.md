@@ -5,5 +5,10 @@ Covid-19 Began appearing Egypt around March 2020, it was the beginning of a new 
 
 In this brief analysis we will visualize the amount of new cases per month, and day through the span of 3 years using the given data set.
 
-The dataset can be found here: https://data.world/markmarkoh/coronavirus-data/workspace/file?filename=full_data.csv .
+The dataset can be found here: https://data.world/markmarkoh/coronavirus-data/workspace/file?filename=full_data.csv.
 Dataset can also be found within the repository files named 'full_data.csv'
+
+
+
+We begin by vizualizing the beginning of the pandemic, that is 2020, sepcifically March 2020:
+![Screen Shot 2022-09-09 at 1 01 45 PM](https://user-images.githubusercontent.com/42482261/189336544-3c360b2c-1ddf-4e54-913a-4a432730c2ab.png)
